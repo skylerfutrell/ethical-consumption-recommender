@@ -1,4 +1,4 @@
-from database import SessionLocal, Brand
+from backend.database import SessionLocal, Brand
 
 db = SessionLocal()
 
